@@ -50,7 +50,7 @@ public partial class @FPControls: IInputActionCollection2, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""c735e743-cad8-48de-88b5-a735a160712b"",
-                    ""path"": ""<Mouse>/delta"",
+                    ""path"": ""<Pointer>/delta"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""Keyboard and Mouse"",
